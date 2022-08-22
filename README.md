@@ -3,7 +3,7 @@
 |<img src="/preview/preview1.png" width="300"/>|<img src="/preview/preview2.png" width="300"/>|
 |--|--|
 
-```
+```dart
 Navigator.pop(context);
 
 Navigator.pushNamed(context, '/second');
